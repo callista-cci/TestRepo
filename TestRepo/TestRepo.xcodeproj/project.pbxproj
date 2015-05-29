@@ -343,9 +343,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iOS Development: Callista  Dsouza (542X26M64M)";
 				INFOPLIST_FILE = TestRepo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "afbe903a-4c21-4f3f-9306-a96ee054936c";
 			};
 			name = Debug;
 		};
@@ -353,9 +355,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iOS Development: Callista  Dsouza (542X26M64M)";
 				INFOPLIST_FILE = TestRepo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "afbe903a-4c21-4f3f-9306-a96ee054936c";
 			};
 			name = Release;
 		};
